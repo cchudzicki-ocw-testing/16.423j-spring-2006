@@ -4,7 +4,12 @@ description: This reource includes questions on musculoskeletal dynamics and con
   and kinematics and dynamics.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/cfb25d4c9bc977092e43a3231b65acaf_quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz1.pdf
+type: OCWFile
 uid: cfb25d4c-9bc9-7709-2e43-a3231b65acaf
 ---
