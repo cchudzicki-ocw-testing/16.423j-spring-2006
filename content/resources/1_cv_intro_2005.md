@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 1_cv_intro_2005.pdf
-type: OCWFile
 uid: 24643cec-4595-25eb-1c9c-9a2c3a169fdf
 ---

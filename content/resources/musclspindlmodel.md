@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: musclspindlmodel.pdf
-type: OCWFile
 uid: 24e146e3-a04c-3b2a-a33f-6a992f219304
 ---

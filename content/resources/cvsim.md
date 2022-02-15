@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: cvsim.pdf
-type: OCWFile
 uid: 9c821e32-b651-4558-9c94-db923b035726
 ---

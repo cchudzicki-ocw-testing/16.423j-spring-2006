@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: joe_env.mat
-type: OCWFile
 uid: a9e0065a-00d2-c550-2554-617c24d70875
 ---

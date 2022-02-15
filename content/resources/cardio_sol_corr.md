@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: cardio_sol_corr.pdf
-type: OCWFile
 uid: 0eae4b16-fef4-8b8d-b6ff-0eef2c9a9495
 ---

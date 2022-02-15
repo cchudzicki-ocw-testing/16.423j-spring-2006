@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: brubakk.pdf
-type: OCWFile
 uid: 97a6c347-5ba6-9911-c7b1-4c73ad61edef
 ---

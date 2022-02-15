@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 1pgrspcesciexplr.pdf
-type: OCWFile
 uid: 36b01d66-6f4f-f658-885d-9ad1ffb2bfae
 ---

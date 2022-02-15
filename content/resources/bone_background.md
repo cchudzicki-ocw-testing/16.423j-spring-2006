@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: bone_background.pdf
-type: OCWFile
 uid: 8817edfa-1cee-d5e0-55f6-7c5af1055969
 ---

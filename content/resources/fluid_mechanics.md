@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: fluid_mechanics.pdf
-type: OCWFile
 uid: 15a19243-f7ce-7a59-ca74-775851d8a1c4
 ---

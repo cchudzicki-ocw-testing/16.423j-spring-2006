@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Other
 title: Land_Explore.zip
-type: OCWFile
 uid: 41829e26-253e-e1f8-3e71-fcb41143e778
 ---

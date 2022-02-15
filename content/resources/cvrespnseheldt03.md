@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: cvrespnseheldt03.pdf
-type: OCWFile
 uid: e8dcb218-9a30-9f15-3f53-b82398e7207a
 ---

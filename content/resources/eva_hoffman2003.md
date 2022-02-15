@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: eva_hoffman2003.pdf
-type: OCWFile
 uid: ca341d84-bb2d-d698-b6a7-0d7ac1b39270
 ---

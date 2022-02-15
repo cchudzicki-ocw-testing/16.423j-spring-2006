@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: cardio_hw_2006.pdf
-type: OCWFile
 uid: b1f0258b-388c-b543-b7a4-b7bbd37f28bd
 ---

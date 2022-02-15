@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: initialassessmnt.pdf
-type: OCWFile
 uid: c4bc152f-ad54-b616-4f8f-e11263aeaa3f
 ---

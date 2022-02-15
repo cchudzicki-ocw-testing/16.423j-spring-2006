@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: musclesumm.pdf
-type: OCWFile
 uid: 831266bc-6ea0-e471-209f-890af1158dfa
 ---

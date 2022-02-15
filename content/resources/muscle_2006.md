@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: muscle_2006.pdf
-type: OCWFile
 uid: fdfc9f3f-c691-8169-b87c-0432b2dcf23e
 ---

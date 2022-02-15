@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: stuster_ice.pdf
-type: OCWFile
 uid: 85b60465-2b74-047e-782b-3f19576a56ac
 ---

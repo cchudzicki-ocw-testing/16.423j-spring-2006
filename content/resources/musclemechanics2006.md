@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: musclemechanics2006.pdf
-type: OCWFile
 uid: 13c08d5f-cc7e-b041-755b-3d65a7df66f8
 ---

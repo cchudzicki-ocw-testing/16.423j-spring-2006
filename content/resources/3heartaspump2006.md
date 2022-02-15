@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 3heartaspump2006.pdf
-type: OCWFile
 uid: 83ad629c-7b57-441a-ce5d-807c1af33878
 ---

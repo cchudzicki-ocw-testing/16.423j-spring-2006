@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 2007factsheet.pdf
-type: OCWFile
 uid: b2e1aaae-db14-5ccc-5c4f-7ce3670c7dc5
 ---

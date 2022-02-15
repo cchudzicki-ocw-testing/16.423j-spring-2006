@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: cont_and_intg.pdf
-type: OCWFile
 uid: 55c04812-83f1-cd0f-6294-e2a9d5089ee6
 ---

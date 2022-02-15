@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: mindmap_bone.pdf
-type: OCWFile
 uid: 8ec720de-1d3d-1b98-ece3-de01ebdb5703
 ---

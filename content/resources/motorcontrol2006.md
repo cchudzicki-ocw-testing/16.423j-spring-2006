@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: motorcontrol2006.pdf
-type: OCWFile
 uid: 867c0e3a-2ea7-4bdd-1d31-2c40949acc24
 ---

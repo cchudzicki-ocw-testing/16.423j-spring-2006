@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: eva_djn_ps.pdf
-type: OCWFile
 uid: 05abf0ba-d2c1-6593-d802-fc9645bbbad5
 ---

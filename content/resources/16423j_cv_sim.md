@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 16423j_cv_sim.pdf
-type: OCWFile
 uid: 97a9ee83-2345-65f1-d89e-fea03060566f
 ---

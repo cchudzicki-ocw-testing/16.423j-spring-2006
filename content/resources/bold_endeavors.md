@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: bold_endeavors.pdf
-type: OCWFile
 uid: 62c51be2-1e9e-75d0-1394-e42af3104708
 ---

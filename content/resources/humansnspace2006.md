@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: humansnspace2006.pdf
-type: OCWFile
 uid: a1e93957-7628-5dab-497b-d7b44f64c672
 ---

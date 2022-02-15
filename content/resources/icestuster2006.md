@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: icestuster2006.pdf
-type: OCWFile
 uid: fb2f71dd-6543-5b09-9ea3-19f3a0512221
 ---

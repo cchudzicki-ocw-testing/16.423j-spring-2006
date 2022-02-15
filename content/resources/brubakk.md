@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: brubakk.pdf
-type: OCWFile
 uid: 9e5c4737-83f5-61a1-2ab7-f42efc49ec0d
 ---

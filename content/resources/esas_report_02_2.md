@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: esas_report_02_2.pdf
-type: OCWFile
 uid: 4f4e9b34-efc7-9da5-7336-b501ccc8f31f
 ---

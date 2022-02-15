@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: cardio_mech.pdf
-type: OCWFile
 uid: 9cef3c5c-3b66-8f87-62a2-7e2ef6044be3
 ---

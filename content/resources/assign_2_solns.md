@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: assign_2_solns.pdf
-type: OCWFile
 uid: f5841223-fa26-30ef-f78f-a3aebc288dfa
 ---

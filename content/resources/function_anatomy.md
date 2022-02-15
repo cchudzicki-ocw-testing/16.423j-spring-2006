@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: function_anatomy.pdf
-type: OCWFile
 uid: 321fd1fc-d6a8-7a14-5289-86f06097a08a
 ---

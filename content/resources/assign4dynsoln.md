@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: assign4dynsoln.pdf
-type: OCWFile
 uid: 27d1fc41-e8b1-ef98-86a5-18287241b27e
 ---

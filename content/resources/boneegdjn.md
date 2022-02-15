@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: boneegdjn.pdf
-type: OCWFile
 uid: de065735-5703-4ea6-f86a-ae13f404f466
 ---

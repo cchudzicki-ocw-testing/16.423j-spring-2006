@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: risknexploration.pdf
-type: OCWFile
 uid: a0436f6b-0690-ca64-cb3f-dbc1346bff4d
 ---

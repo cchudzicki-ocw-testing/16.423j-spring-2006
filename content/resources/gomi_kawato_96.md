@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: gomi_kawato_96.pdf
-type: OCWFile
 uid: 8fa18412-5975-7454-8d6c-1bb9f94d5ac3
 ---

@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: humanatmanual.pdf
-type: OCWFile
 uid: e34a0af9-7104-1c91-b655-4c39ebad4b2b
 ---

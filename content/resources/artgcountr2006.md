@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: artgcountr2006.pdf
-type: OCWFile
 uid: cbc9e621-d64e-217e-773f-d2f2329abd33
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: bon2djntb2006clr.pdf
-type: OCWFile
 uid: 2e4d0420-d782-7cef-3429-0bffbc2a9388
 ---
