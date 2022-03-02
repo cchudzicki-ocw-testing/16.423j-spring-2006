@@ -83,7 +83,7 @@ Brubakk, A. "Man in Extreme Environments." _Aviat. Space Env. Med._ (September 2
 Bone Changes in Space
 {{< tdclose >}}
 {{< tdopen >}}
-Schaffner, Grant. "Bone Changes in Weightlessness." ({{< resource_link 8817edfa-1cee-d5e0-55f6-7c5af1055969 "PDF - 2.0 MB" >}})  
+Schaffner, Grant. "Bone Changes in Weightlessness." ({{% resource_link 8817edfa-1cee-d5e0-55f6-7c5af1055969 "PDF - 2.0 MB" %}})  
   
 Beck, T. J., C. B. Ruff, et al. "Predicting Femoral Neck Strength from Bone Mineral Data: A Structural Approach." _Investigative Radiology_ 25, no. 1 (1990): 6-18.  
   
