@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 1pgrspcesciexplr.pdf
 uid: 36b01d66-6f4f-f658-885d-9ad1ffb2bfae
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Land_Explore.zip
 uid: 41829e26-253e-e1f8-3e71-fcb41143e778
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

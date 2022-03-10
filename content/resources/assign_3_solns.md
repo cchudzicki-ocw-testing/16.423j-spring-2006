@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: assign_3_solns.pdf
 uid: 030a685f-a0fa-5539-7640-710eb1353365
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

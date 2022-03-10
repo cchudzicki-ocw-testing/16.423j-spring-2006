@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 1pger_mathsciedu.pdf
 uid: 928534c5-99db-99c7-a531-4e0e6d1b9cca
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

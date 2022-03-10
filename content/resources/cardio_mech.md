@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: cardio_mech.pdf
 uid: 9cef3c5c-3b66-8f87-62a2-7e2ef6044be3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

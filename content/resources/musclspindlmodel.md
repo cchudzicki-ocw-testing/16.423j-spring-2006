@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: musclspindlmodel.pdf
 uid: 24e146e3-a04c-3b2a-a33f-6a992f219304
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

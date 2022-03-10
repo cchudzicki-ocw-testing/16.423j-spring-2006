@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: termprojguid2006.pdf
 uid: 286fcdf4-511a-2390-7933-6b4189b1f5a8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

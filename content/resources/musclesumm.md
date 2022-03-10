@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: musclesumm.pdf
 uid: 831266bc-6ea0-e471-209f-890af1158dfa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

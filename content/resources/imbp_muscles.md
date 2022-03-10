@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: imbp_muscles.pdf
 uid: 97ec3b0a-dfb0-c45c-377c-069b4c0f1534
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

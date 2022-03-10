@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: risknexploration.pdf
 uid: a0436f6b-0690-ca64-cb3f-dbc1346bff4d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

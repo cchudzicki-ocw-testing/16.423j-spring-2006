@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 59fb50a2-1c74-f387-3924-f19303030203
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Two quizzes were given in this course. The first one is shown here, and the second was an in-class teamwork assignment.

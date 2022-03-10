@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 16423j_cv_sim.pdf
 uid: 97a9ee83-2345-65f1-d89e-fea03060566f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

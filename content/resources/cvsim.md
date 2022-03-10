@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: cvsim.pdf
 uid: 9c821e32-b651-4558-9c94-db923b035726
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Sea_Explore.zip
 uid: 4e452fcf-0f73-51e3-3a47-f78a439a2852
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

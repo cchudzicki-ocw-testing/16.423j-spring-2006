@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: bon2djntb2006clr.pdf
 uid: 2e4d0420-d782-7cef-3429-0bffbc2a9388
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

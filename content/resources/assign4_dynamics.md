@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: assign4_dynamics.pdf
 uid: 4d61c7c4-ed4c-da11-4d99-06c9c15eb145
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

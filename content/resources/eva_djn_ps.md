@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: eva_djn_ps.pdf
 uid: 05abf0ba-d2c1-6593-d802-fc9645bbbad5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

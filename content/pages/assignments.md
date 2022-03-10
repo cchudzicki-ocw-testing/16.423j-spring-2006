@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 9b41d1de-142f-799a-ef96-dc8c0dcfd6f5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following is a set of assignments given to the class throughout the term.

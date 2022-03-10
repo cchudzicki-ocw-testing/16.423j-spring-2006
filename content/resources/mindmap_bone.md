@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: mindmap_bone.pdf
 uid: 8ec720de-1d3d-1b98-ece3-de01ebdb5703
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

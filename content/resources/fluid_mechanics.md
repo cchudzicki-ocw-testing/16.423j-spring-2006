@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fluid_mechanics.pdf
 uid: 15a19243-f7ce-7a59-ca74-775851d8a1c4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

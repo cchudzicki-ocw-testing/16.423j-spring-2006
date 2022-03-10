@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 3heartaspump2006.pdf
 uid: 83ad629c-7b57-441a-ce5d-807c1af33878
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

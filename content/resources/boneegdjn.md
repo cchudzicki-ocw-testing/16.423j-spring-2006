@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: boneegdjn.pdf
 uid: de065735-5703-4ea6-f86a-ae13f404f466
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

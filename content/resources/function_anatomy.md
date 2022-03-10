@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: function_anatomy.pdf
 uid: 321fd1fc-d6a8-7a14-5289-86f06097a08a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

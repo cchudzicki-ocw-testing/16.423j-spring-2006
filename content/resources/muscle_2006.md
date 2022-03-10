@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: muscle_2006.pdf
 uid: fdfc9f3f-c691-8169-b87c-0432b2dcf23e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

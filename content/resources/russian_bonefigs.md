@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: russian_bonefigs.pdf
 uid: 26c9af0c-acdc-e643-2901-1286c5f1b720
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

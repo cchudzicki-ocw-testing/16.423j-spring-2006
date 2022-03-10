@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: bold_endeavors.pdf
 uid: 62c51be2-1e9e-75d0-1394-e42af3104708
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

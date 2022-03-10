@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: musclmechanics06.pdf
 uid: 98895fb3-3eca-e892-fa5e-325101b792bc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

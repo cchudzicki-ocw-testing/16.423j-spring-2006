@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ongoingassessmnt.pdf
 uid: 8f425cca-9dc0-9346-5ade-0f30dcaf2d57
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

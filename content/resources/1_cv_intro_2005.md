@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 1_cv_intro_2005.pdf
 uid: 24643cec-4595-25eb-1c9c-9a2c3a169fdf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

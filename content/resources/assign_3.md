@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: assign_3.pdf
 uid: ad0325f5-4313-fb48-c274-6802ec246402
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

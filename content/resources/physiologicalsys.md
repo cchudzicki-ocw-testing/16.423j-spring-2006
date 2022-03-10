@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: physiologicalsys.pdf
 uid: 836ca544-fcf4-ac50-e594-be3b6808b5ce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

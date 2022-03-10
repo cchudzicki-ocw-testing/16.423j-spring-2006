@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: brubakk.pdf
 uid: 9e5c4737-83f5-61a1-2ab7-f42efc49ec0d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

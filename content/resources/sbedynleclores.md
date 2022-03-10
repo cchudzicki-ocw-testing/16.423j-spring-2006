@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sbedynleclores.pdf
 uid: a306441a-7d15-5ee3-0917-e3280207b52c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

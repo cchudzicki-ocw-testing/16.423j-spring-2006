@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: initialassessmnt.pdf
 uid: c4bc152f-ad54-b616-4f8f-e11263aeaa3f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

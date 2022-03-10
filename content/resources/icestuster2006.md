@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: icestuster2006.pdf
 uid: fb2f71dd-6543-5b09-9ea3-19f3a0512221
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: eva_hoffman2003.pdf
 uid: ca341d84-bb2d-d698-b6a7-0d7ac1b39270
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gomi_kawato_96.pdf
 uid: 8fa18412-5975-7454-8d6c-1bb9f94d5ac3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

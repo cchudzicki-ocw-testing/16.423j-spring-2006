@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: bone_background.pdf
 uid: 8817edfa-1cee-d5e0-55f6-7c5af1055969
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

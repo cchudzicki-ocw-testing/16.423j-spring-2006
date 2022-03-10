@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: joe_env.mat
 uid: a9e0065a-00d2-c550-2554-617c24d70875
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: humanatmanual.pdf
 uid: e34a0af9-7104-1c91-b655-4c39ebad4b2b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

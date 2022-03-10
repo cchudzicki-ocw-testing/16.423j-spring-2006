@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: assignment1.pdf
 uid: 756fd286-5c77-5ff3-44b6-217e7fe54765
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

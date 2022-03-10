@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: motorcontrol2006.pdf
 uid: 867c0e3a-2ea7-4bdd-1d31-2c40949acc24
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: humansnspace2006.pdf
 uid: a1e93957-7628-5dab-497b-d7b44f64c672
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

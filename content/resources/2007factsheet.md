@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 2007factsheet.pdf
 uid: b2e1aaae-db14-5ccc-5c4f-7ce3670c7dc5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

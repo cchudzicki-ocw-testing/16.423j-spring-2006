@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 14e21f7a-bbd9-08e9-9f30-a506d5522fce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

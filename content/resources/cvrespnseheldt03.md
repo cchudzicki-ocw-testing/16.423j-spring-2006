@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: cvrespnseheldt03.pdf
 uid: e8dcb218-9a30-9f15-3f53-b82398e7207a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

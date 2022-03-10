@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: esas_report_02_2.pdf
 uid: 4f4e9b34-efc7-9da5-7336-b501ccc8f31f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

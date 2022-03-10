@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: cardio_hw_2006.pdf
 uid: b1f0258b-388c-b543-b7a4-b7bbd37f28bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

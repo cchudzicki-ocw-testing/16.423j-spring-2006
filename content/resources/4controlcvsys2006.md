@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 4controlcvsys2006.pdf
 uid: ce4ec364-1c58-6efd-46dd-672f7f3fd9d6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

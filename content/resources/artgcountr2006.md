@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: artgcountr2006.pdf
 uid: cbc9e621-d64e-217e-773f-d2f2329abd33
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
