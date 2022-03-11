@@ -14,4 +14,6 @@ title: dynamics_prob6_script.m
 uid: d916644b-eeaf-8f24-c7c0-c4cd8e53861b
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

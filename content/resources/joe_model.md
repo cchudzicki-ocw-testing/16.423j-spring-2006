@@ -14,4 +14,6 @@ title: joe_model.mdl
 uid: dba6b673-c809-3e1c-fb6f-07bf348cd906
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

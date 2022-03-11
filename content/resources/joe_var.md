@@ -14,4 +14,6 @@ title: joe_var.m
 uid: 60adf4d5-2e02-46a8-6f0e-23e5b4ce770d
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

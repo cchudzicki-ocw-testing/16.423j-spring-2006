@@ -14,4 +14,6 @@ title: dynamics_prob2.mdl
 uid: 33f116ff-ad85-b194-826f-cf12cfdcfa90
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
