@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes problems on SAFER, and kalman filter.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/4d61c7c4ed4cda114d9906c9c15eb145_assign4_dynamics.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/4d61c7c4ed4cda114d9906c9c15eb145_assign4_dynamics.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource includes problems on SAFER, and kalman filter.

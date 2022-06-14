@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on advanced EVA research.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/809a713031a0f70e7c8b6f907414d374_biosuitmit16423j.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/809a713031a0f70e7c8b6f907414d374_biosuitmit16423j.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource includes information on advanced EVA research.

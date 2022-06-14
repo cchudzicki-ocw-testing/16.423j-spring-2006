@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/a306441a7d155ee30917e3280207b52c_sbedynleclores.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/a306441a7d155ee30917e3280207b52c_sbedynleclores.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

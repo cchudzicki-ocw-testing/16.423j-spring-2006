@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on bone dynamics examples - fall and
   beam analysis.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/de06573557034ea6f86aae13f404f466_boneegdjn.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/de06573557034ea6f86aae13f404f466_boneegdjn.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource includes information on bone dynamics examples - fall and beam analysis.

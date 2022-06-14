@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes supporting files for assignment 3.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/dba6b673c8093e1cfb6f07bf348cd906_joe_model.mdl
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/dba6b673c8093e1cfb6f07bf348cd906_joe_model.mdl
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource includes supporting files for assignment 3.

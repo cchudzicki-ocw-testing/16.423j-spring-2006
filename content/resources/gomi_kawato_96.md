@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on equilibrium point control hypothesis.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/8fa18412597574548d6c1bb9f94d5ac3_gomi_kawato_96.pdf
+file: /courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/8fa18412597574548d6c1bb9f94d5ac3_gomi_kawato_96.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource includes information on equilibrium point control hypothesis.
