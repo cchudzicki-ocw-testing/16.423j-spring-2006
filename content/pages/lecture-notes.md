@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The lecture notes section includes the files related to specific lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

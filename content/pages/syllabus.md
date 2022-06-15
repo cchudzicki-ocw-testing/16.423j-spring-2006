@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section includes course description, learning objectives
+  measurable outcomes and assessment.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
